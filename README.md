@@ -29,6 +29,11 @@ and open a pull request to add that entry to the dictionary.
 If you have experience editing / maintaining similar dictionaries / wikis, feel free to make suggestions on how to
 improve this dictionary! 
 
+### How to make an entry
+
+Each entry should be as concise and self-contained as possible. 
+While we shall avoid formalism to ease understanding, we should attempt to be rigorous. 
+
 ---
 
 ### Non-interference
