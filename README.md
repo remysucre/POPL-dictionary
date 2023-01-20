@@ -48,7 +48,7 @@ If this program publishes the average age of all patients, it would violate non-
  
  ### Probablistic Programming Languages (PPL)
  
-A PPL is a domain-specific language designed for statistical inference. 
+A PPL is a domain-specific language designed for probablistic inference. 
 The programmer write a program in the language to define a generative model, 
  then the PPL automatically turns the generative model into an inference engine. 
 
